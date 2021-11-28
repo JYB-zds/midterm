@@ -278,7 +278,7 @@ public class NoteSearch extends ListActivity  implements SearchView.OnQueryTextL
 
 
 ### 功能截图
-![]()
+![](https://github.com/JYB-zds/midterm/blob/master/imgfile/Screenshot_2021_1128_192728.png?raw=true)
 
 ### 3.附加功能:
 
