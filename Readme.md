@@ -602,7 +602,7 @@ case R.id.menu_sort2:
 
 ![](https://github.com/JYB-zds/midterm/blob/master/imgfile/D8596910F3AC9A0393E5098A330BE041.jpg?raw=true)
 
-### 文本字体颜色修改:
+### 文本字体大小颜色修改:
 
 
 
