@@ -121,7 +121,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 ### 功能截图:
 
-![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36us949lnj30a60haaad.jpg)
+![](https://github.com/JYB-zds/midterm/blob/master/imgfile/AAF2A593BBE5E40A9E1B40798AE7423F.jpg?raw=true)
 
 
 
@@ -275,6 +275,10 @@ public class NoteSearch extends ListActivity  implements SearchView.OnQueryTextL
 
 
 ```
+
+
+### 功能截图
+![]()
 
 ### 3.附加功能:
 
@@ -543,7 +547,7 @@ public class NoteColor extends Activity {
 
 #### 功能截图:
 
-![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36uy89ny3j30a60hawei.jpg)
+![](https://github.com/JYB-zds/midterm/blob/master/imgfile/AAF2A593BBE5E40A9E1B40798AE7423F.jpg?raw=true)
 
 ### 排序功能:
 
@@ -596,7 +600,7 @@ case R.id.menu_sort2:
 
 ### 
 
-![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36uxmy9hgj30a60hamx8.jpg)
+![](https://github.com/JYB-zds/midterm/blob/master/imgfile/D8596910F3AC9A0393E5098A330BE041.jpg?raw=true)
 
 ### 文本字体颜色修改:
 
@@ -667,9 +671,9 @@ EditText editText = findViewById(R.id.note);
 
 
 
-![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36uum8du6j30a60haaa3.jpg)
+![](https://raw.githubusercontent.com/JYB-zds/midterm/master/imgfile/43A3AE1D2EC8A12E2EE2F1E699408ECF.jpg)
 
-![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36uwu73ttj30a60hawek.jpg)
+![](https://github.com/JYB-zds/midterm/blob/master/imgfile/F673280A9EAFDF23C9AA18F310044A70.jpg?raw=true)
 
-![](http://ww1.sinaimg.cn/large/005LTKwJgy1g36uxaqqx6j30a60ha0st.jpg)
+![](https://github.com/JYB-zds/midterm/blob/master/imgfile/4C6675E8ECA08E46C90C586F416E4627.jpg?raw=true)
 
